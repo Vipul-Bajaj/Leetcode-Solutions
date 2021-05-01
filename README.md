@@ -1,5 +1,6 @@
 # Index
-[![update_site](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml/badge.svg)](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml)1. [Adobe](./Adobe)
+[![update_site](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml/badge.svg)](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml)
+1. [Adobe](./Adobe)
 2. [Amazon](./Amazon)
 3. [Apple](./Apple)
 4. [Audible](./Audible)
