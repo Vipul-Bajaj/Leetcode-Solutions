@@ -8,6 +8,6 @@
 7. [Path_Sum](./Path_Sum.md)
 8. [Remove_All_Adjacent_Duplicates_In_String](./Remove_All_Adjacent_Duplicates_In_String.md)
 9. [Remove_Linked_List_Elements](./Remove_Linked_List_Elements.md)
-10. [Valid_Palindrome_II](./Valid_Palindrome_II.md)
-11. [Valid_Palindrome](./Valid_Palindrome.md)
+10. [Valid_Palindrome](./Valid_Palindrome.md)
+11. [Valid_Palindrome_II](./Valid_Palindrome_II.md)
 12. [Verifying_an_Alien_Dictionary](./Verifying_an_Alien_Dictionary.md)
