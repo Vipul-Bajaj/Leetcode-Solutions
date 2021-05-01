@@ -1,2 +1,2 @@
-# [Leetcode-Solutions](./..)/[Brillio](./)
+# [Home](./..)/[Brillio](./)
 1. [Medium](./Medium)

@@ -1,2 +1,2 @@
-# [Leetcode-Solutions](./..)/[Uber](./)
+# [Home](./..)/[Uber](./)
 1. [Medium](./Medium)

@@ -1,2 +1,2 @@
-# [Leetcode-Solutions](./..)/[Two Sigma](./)
+# [Home](./..)/[Two Sigma](./)
 1. [Medium](./Medium)

@@ -1,3 +1,3 @@
-# [Leetcode-Solutions](./..)/[Apple](./)
+# [Home](./..)/[Apple](./)
 1. [Easy](./Easy)
 2. [Medium](./Medium)

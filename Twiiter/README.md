@@ -1,2 +1,2 @@
-# [Leetcode-Solutions](./..)/[Twiiter](./)
+# [Home](./..)/[Twiiter](./)
 1. [Medium](./Medium)

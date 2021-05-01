@@ -1,2 +1,2 @@
-# [Leetcode-Solutions](./..)/[ByteDance](./)
+# [Home](./..)/[ByteDance](./)
 1. [Hard](./Hard)
