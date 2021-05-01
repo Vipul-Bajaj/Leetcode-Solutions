@@ -1,4 +1,4 @@
-# Index
-1. [Employee Importance](./Employee%20Importance.md)
-2. [Pascal's Triangle](./Pascal%27s%20Triangle.md)
-3. [Power of Three](./Power%20of%20Three.md)
+# [Leetcode-Solutions](./../..)/[Google](./..)/[Easy](./)
+1. [Employee_Importance](./Employee_Importance.md)
+2. [Pascal's_Triangle](./Pascal%27s_Triangle.md)
+3. [Power_of_Three](./Power_of_Three.md)

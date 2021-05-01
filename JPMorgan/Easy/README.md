@@ -1,4 +1,4 @@
-# Index
-1. [Count Binary Substrings](./Count%20Binary%20Substrings.md)
-2. [Fibonacci Number](./Fibonacci%20Number.md)
-3. [Minimum Moves to Equal Array Elements](./Minimum%20Moves%20to%20Equal%20Array%20Elements.md)
+# [Leetcode-Solutions](./../..)/[JPMorgan](./..)/[Easy](./)
+1. [Count_Binary_Substrings](./Count_Binary_Substrings.md)
+2. [Fibonacci_Number](./Fibonacci_Number.md)
+3. [Minimum_Moves_to_Equal_Array_Elements](./Minimum_Moves_to_Equal_Array_Elements.md)

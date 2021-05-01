@@ -1,2 +1,2 @@
-# Index
-1. [Number of Atoms](./Number%20of%20Atoms.md)
+# [Leetcode-Solutions](./../..)/[ByteDance](./..)/[Hard](./)
+1. [Number_of_Atoms](./Number_of_Atoms.md)

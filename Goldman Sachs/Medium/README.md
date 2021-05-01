@@ -1,2 +1,2 @@
-# Index
-1. [String Compression](./String%20Compression.md)
+# [Leetcode-Solutions](./../..)/[Goldman Sachs](./..)/[Medium](./)
+1. [String_Compression](./String_Compression.md)

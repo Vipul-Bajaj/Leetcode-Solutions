@@ -1,2 +1,2 @@
-# Index
-1. [First Missing Positive](./First%20Missing%20Positive.md)
+# [Leetcode-Solutions](./../..)/[Microsoft](./..)/[Hard](./)
+1. [First_Missing_Positive](./First_Missing_Positive.md)

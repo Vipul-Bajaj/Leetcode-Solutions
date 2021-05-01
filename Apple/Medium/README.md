@@ -1,2 +1,2 @@
-# Index
-1. [Longest Increasing Subsequence](./Longest%20Increasing%20Subsequence.md)
+# [Leetcode-Solutions](./../..)/[Apple](./..)/[Medium](./)
+1. [Longest_Increasing_Subsequence](./Longest_Increasing_Subsequence.md)

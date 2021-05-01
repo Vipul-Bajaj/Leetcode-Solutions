@@ -1,2 +1,2 @@
-# Index
-1. [Minimum Operations to Make Array Equal](./Minimum%20Operations%20to%20Make%20Array%20Equal.md)
+# [Leetcode-Solutions](./../..)/[Brillio](./..)/[Medium](./)
+1. [Minimum_Operations_to_Make_Array_Equal](./Minimum_Operations_to_Make_Array_Equal.md)

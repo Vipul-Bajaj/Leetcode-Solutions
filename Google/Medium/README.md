@@ -1,4 +1,4 @@
-# Index
-1. [Deepest Leaves Sum](./Deepest%20Leaves%20Sum.md)
-2. [Furthest Building You Can Reach](./Furthest%20Building%20You%20Can%20Reach.md)
-3. [Ones and Zeroes](./Ones%20and%20Zeroes.md)
+# [Leetcode-Solutions](./../..)/[Google](./..)/[Medium](./)
+1. [Deepest_Leaves_Sum](./Deepest_Leaves_Sum.md)
+2. [Furthest_Building_You_Can_Reach](./Furthest_Building_You_Can_Reach.md)
+3. [Ones_and_Zeroes](./Ones_and_Zeroes.md)

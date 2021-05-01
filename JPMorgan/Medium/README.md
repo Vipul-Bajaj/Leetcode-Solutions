@@ -1,2 +1,2 @@
-# Index
-1. [Decode Ways](./Decode%20Ways.md)
+# [Leetcode-Solutions](./../..)/[JPMorgan](./..)/[Medium](./)
+1. [Decode_Ways](./Decode_Ways.md)

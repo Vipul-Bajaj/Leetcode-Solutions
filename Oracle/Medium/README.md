@@ -1,2 +1,2 @@
-# Index
-1. [Brick Wall](./Brick%20Wall.md)
+# [Leetcode-Solutions](./../..)/[Oracle](./..)/[Medium](./)
+1. [Brick_Wall](./Brick_Wall.md)

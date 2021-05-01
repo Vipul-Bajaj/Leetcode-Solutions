@@ -1,2 +1,2 @@
-# Index
-1. [Valid Anagram](./Valid%20Anagram.md)
+# [Leetcode-Solutions](./../..)/[Bloomberg](./..)/[Easy](./)
+1. [Valid_Anagram](./Valid_Anagram.md)

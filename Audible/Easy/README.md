@@ -1,2 +1,2 @@
-# Index
-1. [Missing Number In Arithmetic Progression](./Missing%20Number%20In%20Arithmetic%20Progression.md)
+# [Leetcode-Solutions](./../..)/[Audible](./..)/[Easy](./)
+1. [Missing_Number_In_Arithmetic_Progression](./Missing_Number_In_Arithmetic_Progression.md)

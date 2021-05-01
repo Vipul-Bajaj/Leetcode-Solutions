@@ -1,2 +1,2 @@
-# Index
-1. [Minimum Swaps to Group All 1's Together](./Minimum%20Swaps%20to%20Group%20All%201%27s%20Together.md)
+# [Leetcode-Solutions](./../..)/[IBM](./..)/[Medium](./)
+1. [Minimum_Swaps_to_Group_All_1's_Together](./Minimum_Swaps_to_Group_All_1%27s_Together.md)

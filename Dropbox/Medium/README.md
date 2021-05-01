@@ -1,2 +1,2 @@
-# Index
-1. [Find Duplicate File in System](./Find%20Duplicate%20File%20in%20System.md)
+# [Leetcode-Solutions](./../..)/[Dropbox](./..)/[Medium](./)
+1. [Find_Duplicate_File_in_System](./Find_Duplicate_File_in_System.md)

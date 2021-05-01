@@ -1,2 +1,2 @@
-# Index
-1. [Delete Node in a Linked List](./Delete%20Node%20in%20a%20Linked%20List.md)
+# [Leetcode-Solutions](./../..)/[Adobe](./..)/[Easy](./)
+1. [Delete_Node_in_a_Linked_List](./Delete_Node_in_a_Linked_List.md)
