@@ -1,4 +1,4 @@
-# [Leetcode-Solutions](./../..)/[Bloomberg](./..)/[Medium](./)
+# [Home](./../..)/[Bloomberg](./..)/[Medium](./)
 1. [Binary_Tree_Level_Order_Traversal](./Binary_Tree_Level_Order_Traversal.md)
 2. [Candy_Crush](./Candy_Crush.md)
 3. [Combination_Sum_IV](./Combination_Sum_IV.md)

@@ -1,4 +1,4 @@
-# [Leetcode-Solutions](./../..)/[Amazon](./..)/[Hard](./)
+# [Home](./../..)/[Amazon](./..)/[Hard](./)
 1. [Basic_Calculator](./Basic_Calculator.md)
 2. [Count_of_Smaller_Numbers_After_Self](./Count_of_Smaller_Numbers_After_Self.md)
 3. [Critical_Connections_in_a_Network](./Critical_Connections_in_a_Network.md)

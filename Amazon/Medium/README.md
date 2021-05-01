@@ -1,4 +1,4 @@
-# [Leetcode-Solutions](./../..)/[Amazon](./..)/[Medium](./)
+# [Home](./../..)/[Amazon](./..)/[Medium](./)
 1. [3Sum](./3Sum.md)
 2. [Add_Two_Numbers](./Add_Two_Numbers.md)
 3. [Binary_Tree_Zigzag_Level_Order_Traversal](./Binary_Tree_Zigzag_Level_Order_Traversal.md)

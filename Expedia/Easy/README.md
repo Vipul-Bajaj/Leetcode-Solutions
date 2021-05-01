@@ -1,2 +1,2 @@
-# [Leetcode-Solutions](./../..)/[Expedia](./..)/[Easy](./)
+# [Home](./../..)/[Expedia](./..)/[Easy](./)
 1. [Climbing_Stairs](./Climbing_Stairs.md)

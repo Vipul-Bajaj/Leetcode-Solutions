@@ -1,4 +1,4 @@
-# [Leetcode-Solutions](./../..)/[Microsoft](./..)/[Medium](./)
+# [Home](./../..)/[Microsoft](./..)/[Medium](./)
 1. [Angle_Between_Hands_of_a_Clock](./Angle_Between_Hands_of_a_Clock.md)
 2. [Count_Good_Nodes_in_Binary_Tree](./Count_Good_Nodes_in_Binary_Tree.md)
 3. [Generate_Parentheses](./Generate_Parentheses.md)

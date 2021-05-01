@@ -1,4 +1,4 @@
-# [Leetcode-Solutions](./../..)/[Microsoft](./..)/[Easy](./)
+# [Home](./../..)/[Microsoft](./..)/[Easy](./)
 1. [Excel_Sheet_Column_Title](./Excel_Sheet_Column_Title.md)
 2. [Fizz_Buzz](./Fizz_Buzz.md)
 3. [Intersection_of_Two_Linked_Lists](./Intersection_of_Two_Linked_Lists.md)

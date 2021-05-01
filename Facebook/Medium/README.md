@@ -1,4 +1,4 @@
-# [Leetcode-Solutions](./../..)/[Facebook](./..)/[Medium](./)
+# [Home](./../..)/[Facebook](./..)/[Medium](./)
 1. [Accounts_Merge](./Accounts_Merge.md)
 2. [Binary_Tree_Right_Side_View](./Binary_Tree_Right_Side_View.md)
 3. [Combination_Sum](./Combination_Sum.md)
