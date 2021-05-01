@@ -1,6 +1,6 @@
 import os, urllib.parse
 files_to_ignore = ["README.md"]
-folders_to_ignore = [".github"]
+folders_to_ignore = [".github",".git"]
 root_folder = "."
 root_readme = open(os.path.join(root_folder,"README.md"),"w+")
 root_readme.write("# Index\n")
