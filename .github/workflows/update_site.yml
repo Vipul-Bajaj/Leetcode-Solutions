@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - .github/workflows/update_site.yml
 
 jobs:
   build:
