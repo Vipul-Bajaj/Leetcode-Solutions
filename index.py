@@ -21,7 +21,7 @@ for company_folder in sorted(os.listdir(root_folder)):
                     if files not in files_to_ignore:
                         os.rename(os.path.join(difficulty_level,files), os.path.join(difficulty_level,files.replace(" ", "_")))
                         file_name,file_extension = os.path.splitext(files)
-                        difficulty_readme.write(str(file_idx) + ". [" + file_name + "](" + urllib.parse.quote(os.path.join('.',files)) + ")\n")
+                        difficulty_readme.write(str(file_idx) + ". [" + file_name.replace(" ","_") + "](" + urllib.parse.quote(os.path.join('.',files.replace(" ", "_"))) + ")\n")
                         file_idx +=1
                 company_readme.write(str(difficulty_idx) + ". [" + difficulty_folder + "](" + urllib.parse.quote(os.path.join('.',difficulty_folder)) + ")\n")
                 difficulty_idx+=1
