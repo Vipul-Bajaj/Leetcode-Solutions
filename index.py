@@ -1,11 +1,12 @@
 import os, urllib.parse
-files_to_ignored = ["README.md"]
+files_to_ignore = ["README.md"]
+folders_to_ignore = [".github"]
 root_folder = "."
 root_readme = open(os.path.join(root_folder,"README.md"),"w+")
 root_readme.write("# Index\n")
 company_idx = 1
 for company_folder in sorted(os.listdir(root_folder)):
-    if os.path.isdir(os.path.join(root_folder, company_folder)):
+    if os.path.isdir(os.path.join(root_folder, company_folder)) and company_folder not in folders_to_ignore:
         comapany_level = os.path.join(root_folder, company_folder)
         company_readme = open(os.path.join(comapany_level,"README.md"),"w+")
         company_readme.write("# Index\n")
@@ -17,7 +18,7 @@ for company_folder in sorted(os.listdir(root_folder)):
                 difficulty_readme.write("# Index\n")
                 file_idx = 1
                 for files in sorted(os.listdir(difficulty_level)):
-                    if files not in files_to_ignored:
+                    if files not in files_to_ignore:
                         file_name,file_extension = os.path.splitext(files)
                         difficulty_readme.write(str(file_idx) + ". [" + file_name + "](" + urllib.parse.quote(os.path.join('.',files)) + ")\n")
                         file_idx +=1
