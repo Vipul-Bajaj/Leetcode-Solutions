@@ -4,8 +4,8 @@ on:
   # Trigger the workflow on push,
   # but only for the main branch
   push:
-    paths:
-      - '**.md'
+    paths-ignore:
+      - '.github/workflows/update_site.yml'
 
 jobs:
   build:
