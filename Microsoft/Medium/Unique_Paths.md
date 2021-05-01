@@ -9,6 +9,8 @@ How many possible unique paths are there?
 
 <img src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png">
 
+</p>
+
 <b>Example 1:</b>
 
     Input: m = 3, n = 7

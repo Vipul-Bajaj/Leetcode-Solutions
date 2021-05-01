@@ -11,6 +11,8 @@ It is guaranteed that there are no cycles anywhere in the entire linked structur
 
 Note that the linked lists must retain their original structure after the function returns.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/03/05/160_example_1_1.png">

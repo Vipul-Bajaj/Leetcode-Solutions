@@ -5,6 +5,8 @@ Given the head of a linked list and a value x, partition it such that all nodes 
 
 You should preserve the original relative order of the nodes in each of the two partitions.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/01/04/partition.jpg"

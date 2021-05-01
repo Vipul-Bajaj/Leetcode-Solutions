@@ -16,6 +16,8 @@ After you are done modifying the input array, return the new length of the array
 Follow up:
 Could you solve it using only O(1) extra space?
 
+</p>
+
 <b>Example 1:</b>
 
     Input: chars = ["a","a","b","b","c","c","c"]

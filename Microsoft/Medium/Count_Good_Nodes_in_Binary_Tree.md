@@ -5,6 +5,8 @@ Given a binary tree root, a node X in the tree is named good if in the path from
 
 Return the number of good nodes in the binary tree.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/04/02/test_sample_1.png">

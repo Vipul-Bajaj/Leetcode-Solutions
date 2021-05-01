@@ -7,6 +7,8 @@ There is a cycle in a linked list if there is some node in the list that can be 
 
 Notice that you should not modify the linked list.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png">

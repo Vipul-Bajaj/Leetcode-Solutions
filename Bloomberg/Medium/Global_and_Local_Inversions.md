@@ -9,6 +9,8 @@ The number of local inversions is the number of i with 0 <= i < N and A[i] > A[i
 
 Return true if and only if the number of global inversions is equal to the number of local inversions.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: A = [1,0,2]

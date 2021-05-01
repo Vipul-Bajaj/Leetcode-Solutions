@@ -5,6 +5,8 @@ Write a function to find the longest common prefix string amongst an array of st
 
 If there is no common prefix, return an empty string "".
 
+</p>
+
 <b>Example 1:</b>
 
     Input: strs = ["flower","flow","flight"]

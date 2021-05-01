@@ -12,6 +12,8 @@ At the beginning of the game, you start with an empty record. You are given a li
 
 Return the sum of all the scores on the record.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: ops = ["5","2","C","D","+"]

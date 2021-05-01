@@ -7,6 +7,8 @@ For example, employee 1 is the leader of employee 2, and employee 2 is the leade
 
 Now given the employee information of a company, and an employee id, you need to return the total importance value of this employee and all their subordinates.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: [[1, 5, [2, 3]], [2, 3, []], [3, 3, []]], 1
@@ -17,7 +19,7 @@ Now given the employee information of a company, and an employee id, you need to
 <b>Note:</b>
 1. One employee has at most one direct leader and may have several subordinates.
 2. The maximum number of employees won't exceed 2000.
-</p>
+
 
 <h2>Solution</h2>
 

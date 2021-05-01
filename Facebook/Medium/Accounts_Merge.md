@@ -7,6 +7,8 @@ Now, we would like to merge these accounts. Two accounts definitely belong to th
 
 After merging the accounts, return the accounts in the following format: the first element of each account is the name, and the rest of the elements are emails in sorted order. The accounts themselves can be returned in any order.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: accounts = [["John","johnsmith@mail.com","john_newyork@mail.com"],["John","johnsmith@mail.com","john00@mail.com"],["Mary","mary@mail.com"],["John","johnnybravo@mail.com"]]

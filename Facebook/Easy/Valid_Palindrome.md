@@ -3,6 +3,8 @@
 <p>
 Given a string s, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: s = "A man, a plan, a canal: Panama"

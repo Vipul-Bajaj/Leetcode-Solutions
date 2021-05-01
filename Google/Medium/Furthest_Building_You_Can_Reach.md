@@ -12,6 +12,8 @@ While moving from building i to building i+1 (0-indexed),
 
 Return the furthest building index (0-indexed) you can reach if you use the given ladders and bricks optimally.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/10/27/q4.gif">

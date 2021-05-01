@@ -9,6 +9,8 @@ A string s is said to be one distance apart from a string t if you can:
 - Delete exactly one character from s to get t.
 - Replace exactly one character of s with a different character to get t.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: s = "ab", t = "acb"

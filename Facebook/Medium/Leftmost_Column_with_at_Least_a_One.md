@@ -15,6 +15,8 @@ Submissions making more than 1000 calls to BinaryMatrix.get will be judged Wrong
 
 For custom testing purposes, the input will be the entire binary matrix mat. You will not have access to the binary matrix directly.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2019/10/25/untitled-diagram-5.jpg">

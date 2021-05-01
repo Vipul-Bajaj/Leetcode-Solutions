@@ -8,6 +8,8 @@ Given an integer n, return a string array answer (1-indexed) where:
 - answer[i] == "Buzz" if i is divisible by 5.
 - answer[i] == i if non of the above conditions are true.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: n = 3

@@ -7,6 +7,8 @@ Prior to being passed to your function, nums is rotated at an unknown pivot inde
 
 Given the array nums after the rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums = [4,5,6,7,0,1,2], target = 0
@@ -29,7 +31,7 @@ Given the array nums after the rotation and an integer target, return the index 
     All values of nums are unique.
     nums is guaranteed to be rotated at some pivot.
     -10^4 <= target <= 10^4
-</p>
+
 
 <h2>Solution</h2>
 

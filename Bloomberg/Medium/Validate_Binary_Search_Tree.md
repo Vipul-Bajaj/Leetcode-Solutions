@@ -9,6 +9,8 @@ A valid BST is defined as follows:
 - The right subtree of a node contains only nodes with keys greater than the node's key.
 - Both the left and right subtrees must also be binary search trees.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/12/01/tree1.jpg">

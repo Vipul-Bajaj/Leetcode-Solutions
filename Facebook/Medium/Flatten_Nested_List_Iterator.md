@@ -9,6 +9,8 @@ Implement the NestedIterator class:
 - int next() Returns the next integer in the nested list.
 - boolean hasNext() Returns true if there are still some integers in the nested list and false otherwise.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nestedList = [[1,1],2,[1,1]]

@@ -10,6 +10,8 @@ The robot performs the instructions given in order, and repeats them forever.
 
 Return true if and only if there exists a circle in the plane such that the robot never leaves the circle.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: instructions = "GGLLGG"
@@ -33,7 +35,7 @@ Return true if and only if there exists a circle in the plane such that the robo
 
     1 <= instructions.length <= 100
     instructions[i] is 'G', 'L' or, 'R'.
-</p>
+
 
 <h2>Solution</h2>
 

@@ -9,6 +9,8 @@ The vertical order traversal of a binary tree is a list of top-to-bottom orderin
 
 Return the vertical order traversal of the binary tree.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/01/29/vtree1.jpg">

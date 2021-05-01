@@ -8,6 +8,8 @@ Implement the RandomizedSet class:
 - bool remove(int val) Removes an item val from the set if present. Returns true if the item was present, false otherwise.
 - int getRandom() Returns a random element from the current set of elements (it's guaranteed that at least one element exists when this method is called). Each element must have the same probability of being returned.
 
+</p>
+
 <b>Example 1:</b>
 
     Input

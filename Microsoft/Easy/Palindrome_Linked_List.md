@@ -3,6 +3,8 @@
 <p>
 Given the head of a singly linked list, return true if it is a palindrome.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/03/03/pal1linked-list.jpg">

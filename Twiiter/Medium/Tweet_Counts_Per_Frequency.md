@@ -20,6 +20,8 @@ Implement the TweetCounts class:
 - List<Integer> getTweetCountsPerFrequency(String freq, String tweetName, int startTime, int endTime) Returns a list of integers representing the number of tweets with tweetName in each time chunk for the given period of time [startTime, endTime] (in seconds) and frequency freq.
   - freq is one of "minute", "hour", or "day" representing a frequency of every minute, hour, or day respectively.
 
+</p>
+
 <b>Example 1:</b>
 
     Input

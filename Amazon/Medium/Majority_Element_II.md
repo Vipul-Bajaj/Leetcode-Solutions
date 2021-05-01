@@ -5,6 +5,8 @@ Given an integer array of size n, find all elements that appear more than ⌊ n/
 
 Follow-up: Could you solve the problem in linear time and in O(1) space?
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums = [3,2,3]

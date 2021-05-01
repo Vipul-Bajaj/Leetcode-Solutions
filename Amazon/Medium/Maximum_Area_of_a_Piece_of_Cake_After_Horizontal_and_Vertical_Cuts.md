@@ -5,6 +5,8 @@ Given a rectangular cake with height h and width w, and two arrays of integers h
 
 Return the maximum area of a piece of cake after you cut at each horizontal and vertical position provided in the arrays horizontalCuts and verticalCuts. Since the answer can be a huge number, return this modulo 10^9 + 7.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/05/14/leetcode_max_area_2.png">

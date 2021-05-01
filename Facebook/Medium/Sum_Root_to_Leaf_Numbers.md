@@ -10,6 +10,8 @@ Return the total sum of all root-to-leaf numbers.
 
 A leaf node is a node with no children.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/02/19/num1tree.jpg">

@@ -6,6 +6,8 @@ Write an efficient algorithm that searches for a target value in an m x n intege
 Integers in each row are sorted in ascending from left to right.
 Integers in each column are sorted in ascending from top to bottom.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/11/24/searchgrid2.jpg">

@@ -5,6 +5,8 @@ Given a signed 32-bit integer x, return x with its digits reversed. If reversing
 
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 
+</p>
+
 <b>Example 1:</b>
 
     Input: x = 123

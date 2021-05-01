@@ -7,6 +7,8 @@ Return the answer as an array of pairs result, where result[j] = [IDj, topFiveAv
 
 A student's top five average is calculated by taking the sum of their top five scores and dividing it by 5 using integer division.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: items = [[1,91],[1,92],[2,93],[2,97],[1,60],[2,77],[1,65],[1,87],[1,100],[2,100],[2,76]]
@@ -27,7 +29,7 @@ A student's top five average is calculated by taking the sum of their top five s
     1 <= IDi <= 1000
     0 <= scorei <= 100
     For each IDi, there will be at least five scores.
-</p>
+
 
 <h2>Solution</h2>
 

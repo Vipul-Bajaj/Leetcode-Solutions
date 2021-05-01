@@ -7,6 +7,8 @@ We need to call the function pickIndex() which randomly returns an integer in th
 
 More formally, the probability of picking index i is w[i] / sum(w).
 
+</p>
+
 <b>Example 1:</b>
 
     Input

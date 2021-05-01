@@ -9,6 +9,8 @@ You may assume that you have an infinite number of each kind of coin.
 
 The answer is guaranteed to fit into a signed 32-bit integer.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: amount = 5, coins = [1,2,5]

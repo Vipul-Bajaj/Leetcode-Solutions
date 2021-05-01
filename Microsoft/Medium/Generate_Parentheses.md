@@ -3,6 +3,8 @@
 <p>
 Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: n = 3

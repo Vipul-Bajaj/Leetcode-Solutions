@@ -7,6 +7,8 @@ There are a total of numCourses courses you have to take, labeled from 0 to numC
 
 Return true if you can finish all courses. Otherwise, return false.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: numCourses = 2, prerequisites = [[1,0]]

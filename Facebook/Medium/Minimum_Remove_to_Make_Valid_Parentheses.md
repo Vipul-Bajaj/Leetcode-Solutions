@@ -11,6 +11,8 @@ Formally, a parentheses string is valid if and only if:
 - It can be written as AB (A concatenated with B), where A and B are valid strings, or
 - It can be written as (A), where A is a valid string.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: s = "lee(t(c)o)de)"

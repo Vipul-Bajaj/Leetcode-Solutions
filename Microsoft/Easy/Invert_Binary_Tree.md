@@ -3,6 +3,8 @@
 <p>
 Given the root of a binary tree, invert the tree, and return its root.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/03/14/invert1-tree.jpg">

@@ -5,6 +5,8 @@ Write a function to delete a node in a singly-linked list. You will not be given
 
 It is guaranteed that the node to be deleted is not a tail node in the list.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/09/01/node1.jpg">
@@ -32,7 +34,7 @@ It is guaranteed that the node to be deleted is not a tail node in the list.
 - -1000 <= Node.val <= 1000
 - The value of each node in the list is unique.
 - The node to be deleted is in the list and is not a tail node
-</p>
+
 
 <h2>Solution</h2>
 

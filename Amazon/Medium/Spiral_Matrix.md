@@ -3,6 +3,8 @@
 <p>
 Given an m x n matrix, return all elements of the matrix in spiral order.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/11/13/spiral1.jpg">
@@ -23,7 +25,7 @@ Given an m x n matrix, return all elements of the matrix in spiral order.
     n == matrix[i].length
     1 <= m, n <= 10
     -100 <= matrix[i][j] <= 100
-</p>
+
 
 <h2>Solution</h2>
 

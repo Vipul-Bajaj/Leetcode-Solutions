@@ -3,6 +3,8 @@
 <p>
 Given an array of meeting time intervals where intervals[i] = [starti, endi], determine if a person could attend all meetings.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: intervals = [[0,30],[5,10],[15,20]]

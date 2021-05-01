@@ -9,6 +9,8 @@ You may assume that the input string is always valid; No extra white spaces, squ
 
 Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, k. For example, there won't be input like 3a or 2[4].
 
+</p>
+
 <b>Example 1:</b>
 
     Input: s = "3[a]2[bc]"

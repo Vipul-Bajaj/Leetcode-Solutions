@@ -15,6 +15,8 @@ Note:
 - Each word's length is guaranteed to be greater than 0 and not exceed maxWidth.
 - The input array words contains at least one word.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: words = ["This", "is", "an", "example", "of", "text", "justification."], maxWidth = 16

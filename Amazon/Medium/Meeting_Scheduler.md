@@ -9,6 +9,8 @@ The format of a time slot is an array of two elements [start, end] representing 
 
 It is guaranteed that no two availability slots of the same person intersect with each other. That is, for any two time slots [start1, end1] and [start2, end2] of the same person, either start1 > end2 or start2 > end1.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: slots1 = [[10,50],[60,120],[140,210]], slots2 = [[0,15],[60,70]], duration = 8

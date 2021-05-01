@@ -9,6 +9,8 @@ You have the following three operations permitted on a word:
 - Delete a character
 - Replace a character
 
+</p>
+
 <b>Example 1:</b>
 
     Input: word1 = "horse", word2 = "ros"

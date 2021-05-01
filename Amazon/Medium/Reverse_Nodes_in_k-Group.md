@@ -10,6 +10,8 @@ Follow up:
 - Could you solve the problem in O(1) extra memory space?
 - You may not alter the values in the list's nodes, only nodes itself may be changed.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/10/03/reverse_ex1.jpg">

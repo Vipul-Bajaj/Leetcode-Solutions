@@ -5,6 +5,8 @@ Given a string paragraph and a string array of the banned words banned, return t
 
 The words in paragraph are case-insensitive and the answer should be returned in lowercase.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: paragraph = "Bob hit a ball, the hit BALL flew far after it was hit.", banned = ["hit"]

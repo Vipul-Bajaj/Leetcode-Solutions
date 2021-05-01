@@ -7,6 +7,8 @@ Given an integer array nums, find a peak element, and return its index. If the a
 
 You may imagine that nums[-1] = nums[n] = -∞.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums = [1,2,3,1]

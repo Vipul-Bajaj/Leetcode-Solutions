@@ -13,6 +13,8 @@ The canonical path should have the following format:
 - The path only contains the directories on the path from the root directory to the target file or directory (i.e., no period '.' or double period '..')
 - Return the simplified canonical path.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: path = "/home/"

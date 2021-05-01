@@ -5,6 +5,8 @@ Given an array of distinct integers nums and a target integer target, return the
 
 The answer is guaranteed to fit in a 32-bit integer.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums = [1,2,3], target = 4

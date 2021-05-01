@@ -5,6 +5,8 @@ Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]]
 
 Notice that the solution set must not contain duplicate triplets.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums = [-1,0,1,2,-1,-4]

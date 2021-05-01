@@ -5,6 +5,8 @@ You are a professional robber planning to rob houses along a street. Each house 
 
 Given an integer array nums representing the amount of money of each house, return the maximum amount of money you can rob tonight without alerting the police.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums = [1,2,3,1]

@@ -7,6 +7,8 @@ Return the size of the largest subset of strs such that there are at most m 0's 
 
 A set x is a subset of a set y if all elements of x are also elements of y.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: strs = ["10","0001","111001","1","0"], m = 5, n = 3
@@ -27,7 +29,7 @@ A set x is a subset of a set y if all elements of x are also elements of y.
     1 <= strs[i].length <= 100
     strs[i] consists only of digits '0' and '1'.
     1 <= m, n <= 100
-</p>
+
 
 <h2>Solution</h2>
 

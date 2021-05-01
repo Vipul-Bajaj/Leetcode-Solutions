@@ -3,6 +3,8 @@
 <p>
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
   
+</p>
+
 <b>Example 1:</b>
 
     Input: s = "anagram", t = "nagaram"

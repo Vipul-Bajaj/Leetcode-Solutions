@@ -15,6 +15,8 @@ The output is a list of groups of duplicate file paths. For each group, it conta
 
 - "directory_path/file_name.txt"
 
+</p>
+
 <b>Example 1:</b>
 
     Input: paths = ["root/a 1.txt(abcd) 2.txt(efgh)","root/c 3.txt(abcd)","root/c/d 4.txt(efgh)","root 4.txt(efgh)"]

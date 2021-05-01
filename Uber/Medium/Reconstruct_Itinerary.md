@@ -8,6 +8,8 @@ All of the tickets belong to a man who departs from "JFK", thus, the itinerary m
 For example, the itinerary ["JFK", "LGA"] has a smaller lexical order than ["JFK", "LGB"].
 You may assume all tickets form at least one valid itinerary. You must use all the tickets once and only once.
 
+</p>
+
 <b>Example 1:</b>
   
  <img src="https://assets.leetcode.com/uploads/2021/03/14/itinerary1-graph.jpg"> 

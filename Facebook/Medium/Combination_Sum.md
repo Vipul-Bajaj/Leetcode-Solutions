@@ -7,6 +7,8 @@ The same number may be chosen from candidates an unlimited number of times. Two 
 
 It is guaranteed that the number of unique combinations that sum up to target is less than 150 combinations for the given input.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: candidates = [2,3,6,7], target = 7

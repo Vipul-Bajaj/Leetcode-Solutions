@@ -10,6 +10,8 @@ Every minute, any fresh orange that is 4-directionally adjacent to a rotten oran
 
 Return the minimum number of minutes that must elapse until no cell has a fresh orange. If this is impossible, return -1.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2019/02/16/oranges.png">

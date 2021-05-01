@@ -3,6 +3,8 @@
 <p>
 Given the root of a binary tree, return the sum of values of its deepest leaves.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2019/07/31/1483_ex1.png">

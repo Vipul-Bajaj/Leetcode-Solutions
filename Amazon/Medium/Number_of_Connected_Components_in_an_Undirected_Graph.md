@@ -5,6 +5,8 @@ You have a graph of n nodes. You are given an integer n and an array edges where
 
 Return the number of connected components in the graph.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/03/14/conn1-graph.jpg">

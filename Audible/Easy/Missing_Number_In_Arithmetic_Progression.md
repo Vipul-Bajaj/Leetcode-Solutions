@@ -7,6 +7,8 @@ A value from arr was removed that was not the first or last value in the array.
 
 Given arr, return the removed value.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: arr = [5,7,11,13]

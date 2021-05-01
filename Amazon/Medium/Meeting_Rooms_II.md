@@ -3,6 +3,8 @@
 <p>
 Given an array of meeting time intervals intervals where intervals[i] = [starti, endi], return the minimum number of conference rooms required.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: intervals = [[0,30],[5,10],[15,20]]

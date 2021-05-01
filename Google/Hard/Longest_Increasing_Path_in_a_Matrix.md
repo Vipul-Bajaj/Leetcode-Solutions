@@ -5,6 +5,8 @@ Given an m x n integers matrix, return the length of the longest increasing path
 
 From each cell, you can either move in four directions: left, right, up, or down. You may not move diagonally or move outside the boundary (i.e., wrap-around is not allowed).
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/01/05/grid1.jpg">

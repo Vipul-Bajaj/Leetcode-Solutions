@@ -3,6 +3,8 @@
 <p>
 Given an unsorted integer array nums, find the smallest missing positive integer.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums = [1,2,0]

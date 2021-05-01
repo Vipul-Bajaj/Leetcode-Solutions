@@ -6,6 +6,8 @@ Write an efficient algorithm that searches for a value in an m x n matrix. This 
 - Integers in each row are sorted from left to right.
 - The first integer of each row is greater than the last integer of the previous row.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/10/05/mat.jpg">

@@ -7,6 +7,8 @@ If such an arrangement is not possible, it must rearrange it as the lowest possi
 
 The replacement must be in place and use only constant extra memory.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums = [1,2,3]

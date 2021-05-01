@@ -11,6 +11,8 @@ Implement the MinStack class:
 - int top() gets the top element of the stack.
 - int getMin() retrieves the minimum element in the stack.
 
+</p>
+
 <b>Example 1:</b>
 
     Input

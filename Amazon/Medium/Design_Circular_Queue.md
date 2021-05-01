@@ -15,6 +15,8 @@ Implementation the MyCircularQueue class:
 - boolean isEmpty() Checks whether the circular queue is empty or not.
 - boolean isFull() Checks whether the circular queue is full or not.
 
+</p>
+
 <b>Example 1:</b>
 
     Input

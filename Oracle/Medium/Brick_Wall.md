@@ -9,6 +9,8 @@ If your line go through the edge of a brick, then the brick is not considered as
 
 You cannot draw a line just along one of the two vertical edges of the wall, in which case the line will obviously cross no bricks.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2018/10/12/brick_wall.png">

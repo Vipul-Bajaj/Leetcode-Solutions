@@ -5,6 +5,8 @@ Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one s
 
 The number of elements initialized in nums1 and nums2 are m and n respectively. You may assume that nums1 has a size equal to m + n such that it has enough space to hold additional elements from nums2.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3

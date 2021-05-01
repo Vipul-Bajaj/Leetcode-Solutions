@@ -7,6 +7,8 @@ The path sum of a path is the sum of the node's values in the path.
 
 Given the root of a binary tree, return the maximum path sum of any path.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/10/13/exx1.jpg">

@@ -5,6 +5,8 @@ Given n non-negative integers a1, a2, ..., an , where each represents a point at
 
 Notice that you may not slant the container.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg">

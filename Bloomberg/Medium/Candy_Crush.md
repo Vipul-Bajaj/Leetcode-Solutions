@@ -12,6 +12,8 @@ Given a 2D integer array board representing the grid of candy, different positiv
 
 You need to perform the above rules until the board becomes stable, then return the current board.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2018/10/12/candy_crush_example_2.png">

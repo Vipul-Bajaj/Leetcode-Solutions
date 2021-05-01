@@ -3,6 +3,8 @@
 <p>
 Given a binary array data, return the minimum number of swaps required to group all 1’s present in the array together in any place in the array.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: data = [1,0,1,0,1]

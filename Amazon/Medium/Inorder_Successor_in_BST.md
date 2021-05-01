@@ -5,6 +5,8 @@ Given the root of a binary search tree and a node p in it, return the in-order s
 
 The successor of a node p is the node with the smallest key greater than p.val.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2019/01/23/285_example_1.PNG">

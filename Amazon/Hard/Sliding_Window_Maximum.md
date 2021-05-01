@@ -5,6 +5,8 @@ You are given an array of integers nums, there is a sliding window of size k whi
 
 Return the max sliding window.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: nums = [1,3,-1,-3,5,3,6,7], k = 3

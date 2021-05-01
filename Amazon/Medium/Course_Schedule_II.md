@@ -9,6 +9,8 @@ Given the total number of courses numCourses and a list of the prerequisite pair
 
 If there are many valid answers, return any of them. If it is impossible to finish all courses, return an empty array.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: numCourses = 2, prerequisites = [[1,0]]

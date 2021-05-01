@@ -7,6 +7,8 @@ In one operation, you can select two indices x and y where 0 <= x, y < n and sub
 
 Given an integer n, the length of the array. Return the minimum number of operations needed to make all the elements of arr equal.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: n = 3

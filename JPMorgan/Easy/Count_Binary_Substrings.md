@@ -5,6 +5,8 @@ Give a string s, count the number of non-empty (contiguous) substrings that have
 
 Substrings that occur multiple times are counted the number of times they occur.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: "00110011"

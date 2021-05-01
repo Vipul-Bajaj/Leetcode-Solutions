@@ -3,6 +3,8 @@
 <p>
 Given a string s, return the first non-repeating character in it and return its index. If it does not exist, return -1.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: s = "leetcode"

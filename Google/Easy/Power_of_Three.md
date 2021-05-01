@@ -5,6 +5,8 @@ Given an integer n, return true if it is a power of three. Otherwise, return fal
 
 An integer n is a power of three, if there exists an integer x such that n == 3x.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: n = 27

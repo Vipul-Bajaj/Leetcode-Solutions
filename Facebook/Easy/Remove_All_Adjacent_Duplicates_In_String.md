@@ -7,6 +7,8 @@ We repeatedly make duplicate removals on S until we no longer can.
 
 Return the final string after all such duplicate removals have been made.  It is guaranteed the answer is unique.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: "abbaca"

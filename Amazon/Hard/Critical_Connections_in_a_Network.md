@@ -7,6 +7,8 @@ A critical connection is a connection that, if removed, will make some server un
 
 Return all critical connections in the network in any order.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2019/09/03/1537_ex1_2.png">

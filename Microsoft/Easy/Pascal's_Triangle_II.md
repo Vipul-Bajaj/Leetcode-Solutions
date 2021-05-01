@@ -7,6 +7,8 @@ In Pascal's triangle, each number is the sum of the two numbers directly above i
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif">
 
+</p>
+
 <b>Example 1:</b>
 
     Input: rowIndex = 3

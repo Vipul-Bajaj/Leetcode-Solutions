@@ -3,6 +3,8 @@
 <p>
 Given two binary strings a and b, return their sum as a binary string.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: a = "11", b = "1"

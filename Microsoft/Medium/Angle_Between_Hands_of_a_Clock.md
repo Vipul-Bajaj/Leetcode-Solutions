@@ -3,6 +3,8 @@
 <p>
 Given two numbers, hour and minutes. Return the smaller angle (in degrees) formed between the hour and the minute hand.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2019/12/26/sample_1_1673.png">

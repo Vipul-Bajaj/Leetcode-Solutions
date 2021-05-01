@@ -9,6 +9,8 @@ Implement the FirstUnique class:
 - int showFirstUnique() returns the value of the first unique integer of the queue, and returns -1 if there is no such integer.
 - void add(int value) insert value to the queue.
 
+</p>
+
 <b>Example 1:</b>
 
     Input: 

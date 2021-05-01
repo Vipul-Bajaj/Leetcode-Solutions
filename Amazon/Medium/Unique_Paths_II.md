@@ -9,6 +9,8 @@ Now consider if some obstacles are added to the grids. How many unique paths wou
 
 An obstacle and space is marked as 1 and 0 respectively in the grid.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2020/11/04/robot1.jpg">

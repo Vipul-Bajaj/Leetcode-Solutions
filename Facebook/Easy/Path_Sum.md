@@ -5,6 +5,8 @@ Given the root of a binary tree and an integer targetSum, return true if the tre
 
 A leaf is a node with no children.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg">

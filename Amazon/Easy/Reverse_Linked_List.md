@@ -3,6 +3,8 @@
 <p>
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 
+</p>
+
 <b>Example 1:</b>
 
 <img src="https://assets.leetcode.com/uploads/2021/02/19/rev1ex1.jpg">
