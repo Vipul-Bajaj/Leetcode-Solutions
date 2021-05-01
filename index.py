@@ -3,7 +3,7 @@ files_to_ignore = ["README.md"]
 folders_to_ignore = [".github",".git"]
 root_folder = "."
 root_readme = open(os.path.join(root_folder,"README.md"),"w+")
-root_readme.write("# Index\n")
+root_readme.write("# Home\n")
 root_readme.write('[![update_site](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml/badge.svg)](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml)\n')
 company_idx = 1
 for company_folder in sorted(os.listdir(root_folder)):
@@ -16,7 +16,7 @@ for company_folder in sorted(os.listdir(root_folder)):
             if os.path.isdir(os.path.join(company_folder,difficulty_folder)):
                 difficulty_level = os.path.join(company_folder,difficulty_folder)
                 difficulty_readme = open(os.path.join(difficulty_level,"README.md"),"w+")
-                difficulty_readme.write("# [Leetcode-Solutions](./../..)/[" + company_folder + "](./..)/[" + difficulty_folder +"](./)\n")
+                difficulty_readme.write("# [Home](./../..)/[" + company_folder + "](./..)/[" + difficulty_folder +"](./)\n")
                 file_idx = 1
                 for files in sorted(os.listdir(difficulty_level)):
                     if files not in files_to_ignore:
