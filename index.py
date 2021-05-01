@@ -4,7 +4,7 @@ folders_to_ignore = [".github",".git"]
 root_folder = "."
 root_readme = open(os.path.join(root_folder,"README.md"),"w+")
 root_readme.write("# Index\n")
-root_readme.write('[![update_site](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml/badge.svg)](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml)')
+root_readme.write('[![update_site](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml/badge.svg)](https://github.com/Vipul-Bajaj/Leetcode-Solutions/actions/workflows/update_site.yml)\n')
 company_idx = 1
 for company_folder in sorted(os.listdir(root_folder)):
     if os.path.isdir(os.path.join(root_folder, company_folder)) and company_folder not in folders_to_ignore:
