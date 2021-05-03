@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Microsoft](./../..)/[Medium](./..)/Generate_Parentheses
 <h1>Generate Parentheses</h1>
 
 <p>

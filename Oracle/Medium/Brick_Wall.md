@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Oracle](./../..)/[Medium](./..)/Brick_Wall
 <h1>Brick Wall</h1>
 
 <p>

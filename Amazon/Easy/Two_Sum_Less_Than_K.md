@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Two_Sum_Less_Than_K
 <h1>Two Sum Less Than K</h1>
 
 <p>

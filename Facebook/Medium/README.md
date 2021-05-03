@@ -1,4 +1,4 @@
-# [Home](./../..)/[Facebook](./..)/[Medium](./)
+# [Home](./../..)/[Facebook](./..)/Medium
 1. [3Sum_Closest](./3Sum_Closest.md)
 2. [Accounts_Merge](./Accounts_Merge.md)
 3. [Binary_Tree_Right_Side_View](./Binary_Tree_Right_Side_View.md)

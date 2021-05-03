@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Random_Pick_with_Weight
 <h1>Random Pick with Weight</h1>
 
 <p>

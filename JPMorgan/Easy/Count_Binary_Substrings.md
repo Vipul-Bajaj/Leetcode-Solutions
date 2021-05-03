@@ -1,3 +1,4 @@
+# [Home](./../../..)/[JPMorgan](./../..)/[Easy](./..)/Count_Binary_Substrings
 <h1>Count Binary Substrings</h1>
 
 <p>

@@ -1,3 +1,4 @@
+# [Home](./../../..)/[JPMorgan](./../..)/[Easy](./..)/Minimum_Moves_to_Equal_Array_Elements
 <h1>Minimum Moves to Equal Array Elements</h1>
 
 <p>

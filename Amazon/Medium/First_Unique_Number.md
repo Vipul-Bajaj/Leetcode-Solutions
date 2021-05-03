@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/First_Unique_Number
 <h1>First Unique Number</h1>
 
 <p>

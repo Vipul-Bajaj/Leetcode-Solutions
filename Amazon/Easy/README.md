@@ -1,4 +1,4 @@
-# [Home](./../..)/[Amazon](./..)/[Easy](./)
+# [Home](./../..)/[Amazon](./..)/Easy
 1. [Baseball_Game](./Baseball_Game.md)
 2. [Best_Time_to_Buy_and_Sell_Stock](./Best_Time_to_Buy_and_Sell_Stock.md)
 3. [Majority_Element](./Majority_Element.md)

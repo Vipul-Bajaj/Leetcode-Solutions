@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Gas_Station
 <h1>Gas Station</h1>
 
 <p>

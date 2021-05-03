@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Majority_Element
 <h1>Majority Element</h1>
 
 <p>

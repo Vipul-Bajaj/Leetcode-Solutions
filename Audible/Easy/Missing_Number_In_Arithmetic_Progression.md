@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Audible](./../..)/[Easy](./..)/Missing_Number_In_Arithmetic_Progression
 <h1>Missing Number In Arithmetic Progression</h1>
 
 <p>

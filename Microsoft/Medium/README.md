@@ -1,4 +1,4 @@
-# [Home](./../..)/[Microsoft](./..)/[Medium](./)
+# [Home](./../..)/[Microsoft](./..)/Medium
 1. [Angle_Between_Hands_of_a_Clock](./Angle_Between_Hands_of_a_Clock.md)
 2. [Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal](./Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md)
 3. [Count_Good_Nodes_in_Binary_Tree](./Count_Good_Nodes_in_Binary_Tree.md)

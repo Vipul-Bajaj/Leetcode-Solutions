@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Adobe](./../..)/[Easy](./..)/Delete_Node_in_a_Linked_List
 <h1>Delete Node in a Linked List</h1>
 
 <p>

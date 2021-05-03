@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Triangle
 <h1>Triangle</h1>
 
 <p>

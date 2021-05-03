@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Min_Stack
 <h1>Min Stack</h1>
 
 <p>

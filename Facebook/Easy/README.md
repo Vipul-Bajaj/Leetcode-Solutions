@@ -1,4 +1,4 @@
-# [Home](./../..)/[Facebook](./..)/[Easy](./)
+# [Home](./../..)/[Facebook](./..)/Easy
 1. [Add_Binary](./Add_Binary.md)
 2. [Add_strings](./Add_strings.md)
 3. [Longest_Common_Prefix](./Longest_Common_Prefix.md)

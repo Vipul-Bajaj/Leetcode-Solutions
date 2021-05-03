@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Rotting_Oranges
 <h1>Rotting Oranges</h1>
 
 <p>

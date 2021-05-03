@@ -1,2 +1,2 @@
-# [Home](./..)/[LinkedIn](./)
+# [Home](./..)/LinkedIn
 1. [Medium](./Medium)

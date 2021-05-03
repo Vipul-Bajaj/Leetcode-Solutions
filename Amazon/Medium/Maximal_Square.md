@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Maximal_Square
 <h1>Maximal Square</h1>
 
 <p>

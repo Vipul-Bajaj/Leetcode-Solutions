@@ -1,2 +1,2 @@
-# [Home](./..)/[Intuit](./)
+# [Home](./..)/Intuit
 1. [Hard](./Hard)

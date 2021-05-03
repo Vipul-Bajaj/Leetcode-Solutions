@@ -1,2 +1,2 @@
-# [Home](./..)/[Adobe](./)
+# [Home](./..)/Adobe
 1. [Easy](./Easy)

@@ -1,3 +1,4 @@
+# [Home](./../../..)/[Google](./../..)/[Medium](./..)/Ones_and_Zeroes
 <h1>Ones and Zeroes</h1>
 
 <p>
