@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Daily_Temperatures
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Daily_Temperatures
 <h1>Daily Temperatures</h1>
 
 <p>

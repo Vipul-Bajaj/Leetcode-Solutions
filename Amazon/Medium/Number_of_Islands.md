@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Number_of_Islands
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Number_of_Islands
 <h1>Number of Islands</h1>
 
 <p>

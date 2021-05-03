@@ -1,5 +1,4 @@
 # [Home](./../../..)/[IBM](./../..)/[Medium](./..)/3Sum_Smaller
-# [Home](./../../..)/[IBM](./../..)/[Medium](./..)/3Sum_Smaller
 <h1>3Sum Smaller</h1>
 
 <p>

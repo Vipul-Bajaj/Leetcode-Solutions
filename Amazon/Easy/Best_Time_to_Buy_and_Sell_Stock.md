@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Best_Time_to_Buy_and_Sell_Stock
-# [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Best_Time_to_Buy_and_Sell_Stock
 <h1>Best Time to Buy and Sell Stock</h1>
 
 <p>

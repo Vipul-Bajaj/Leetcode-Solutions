@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Shortest_Path_in_Binary_Matrix
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Shortest_Path_in_Binary_Matrix
 <h1>Shortest Path in Binary Matrix</h1>
 
 <p>

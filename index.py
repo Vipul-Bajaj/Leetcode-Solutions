@@ -19,16 +19,8 @@ for company_folder in sorted(os.listdir(root_folder)):
                 difficulty_readme.write("# [Home](./../..)/[" + company_folder + "](./..)/" + difficulty_folder +"\n")
                 file_idx = 1
                 for files in sorted(os.listdir(difficulty_level)):
-                    if files not in files_to_ignore: 
+                    if files not in files_to_ignore:
                         file_name,file_extension = os.path.splitext(files)
-                        dummy_file = file_name + ".bak"
-                        with open(os.path.join(company_folder,difficulty_folder,files), 'r') as read_obj, open(os.path.join(company_folder,difficulty_folder,dummy_file), 'w') as write_obj:
-                            write_obj.write("# [Home](./../../..)/[" + company_folder + "](./../..)/[" + difficulty_folder +"](./..)/" + file_name + "\n")
-                            for line in read_obj:
-                                write_obj.write(line)
-                        os.remove(os.path.join(company_folder,difficulty_folder,files))
-                        os.rename(os.path.join(company_folder,difficulty_folder,dummy_file), os.path.join(company_folder,difficulty_folder,files))
-
                         difficulty_readme.write(str(file_idx) + ". [" + file_name.replace(" ","_") + "](" + urllib.parse.quote(os.path.join('.',files.replace(" ", "_"))) + ")\n")
                         file_idx +=1
                 company_readme.write(str(difficulty_idx) + ". [" + difficulty_folder + "](" + urllib.parse.quote(os.path.join('.',difficulty_folder)) + ")\n")

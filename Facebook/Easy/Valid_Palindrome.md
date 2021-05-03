@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Valid_Palindrome
-# [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Valid_Palindrome
 <h1>Valid Palindrome</h1>
 
 <p>

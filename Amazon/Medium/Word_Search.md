@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Word_Search
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Word_Search
 <h1>Word Search</h1>
 
 <p>

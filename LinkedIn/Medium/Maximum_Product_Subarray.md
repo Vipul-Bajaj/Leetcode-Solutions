@@ -1,5 +1,4 @@
 # [Home](./../../..)/[LinkedIn](./../..)/[Medium](./..)/Maximum_Product_Subarray
-# [Home](./../../..)/[LinkedIn](./../..)/[Medium](./..)/Maximum_Product_Subarray
 <h1>Maximum Product Subarray</h1>
 
 <p>

@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Google](./../..)/[Medium](./..)/Deepest_Leaves_Sum
-# [Home](./../../..)/[Google](./../..)/[Medium](./..)/Deepest_Leaves_Sum
 <h1>Deepest Leaves Sum</h1>
 
 <p>

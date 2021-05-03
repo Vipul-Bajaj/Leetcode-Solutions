@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Expedia](./../..)/[Easy](./..)/Climbing_Stairs
-# [Home](./../../..)/[Expedia](./../..)/[Easy](./..)/Climbing_Stairs
 <h1>Climbing Stairs</h1>
 
 <p>

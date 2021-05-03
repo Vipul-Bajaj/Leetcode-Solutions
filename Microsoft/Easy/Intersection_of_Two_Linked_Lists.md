@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Microsoft](./../..)/[Easy](./..)/Intersection_of_Two_Linked_Lists
-# [Home](./../../..)/[Microsoft](./../..)/[Easy](./..)/Intersection_of_Two_Linked_Lists
 <h1>Intersection of Two Linked Lists</h1>
 
 <p>

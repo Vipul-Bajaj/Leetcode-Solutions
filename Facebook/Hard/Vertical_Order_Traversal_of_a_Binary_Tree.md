@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Hard](./..)/Vertical_Order_Traversal_of_a_Binary_Tree
-# [Home](./../../..)/[Facebook](./../..)/[Hard](./..)/Vertical_Order_Traversal_of_a_Binary_Tree
 <h1>Vertical Order Traversal of a Binary Tree</h1>
 
 <p>

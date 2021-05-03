@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Apple](./../..)/[Easy](./..)/Reverse_String
-# [Home](./../../..)/[Apple](./../..)/[Easy](./..)/Reverse_String
 <h1>Reverse String</h1>
 
 <p>

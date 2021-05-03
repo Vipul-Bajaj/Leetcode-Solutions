@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Sum_Root_to_Leaf_Numbers
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Sum_Root_to_Leaf_Numbers
 <h1>Sum Root to Leaf Numbers</h1>
 
 <p>

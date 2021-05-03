@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Inorder_Successor_in_BST
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Inorder_Successor_in_BST
 <h1>Inorder Successor in BST</h1>
 
 <p>

@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Google](./../..)/[Medium](./..)/Furthest_Building_You_Can_Reach
-# [Home](./../../..)/[Google](./../..)/[Medium](./..)/Furthest_Building_You_Can_Reach
 <h1>Furthest Building You Can Reach</h1>
 
 <p>

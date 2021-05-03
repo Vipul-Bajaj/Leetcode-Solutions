@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Next_Permutation
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Next_Permutation
 <h1>Next Permutation</h1>
 
 <p>

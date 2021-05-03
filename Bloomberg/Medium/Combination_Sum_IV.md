@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Combination_Sum_IV
-# [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Combination_Sum_IV
 <h1>Combination Sum IV</h1>
 
 <p>

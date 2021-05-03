@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Partition_Labels
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Partition_Labels
 <h1>Partition Labels</h1>
 
 <p>

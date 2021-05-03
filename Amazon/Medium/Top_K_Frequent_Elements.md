@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Top_K_Frequent_Elements
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Top_K_Frequent_Elements
 <h1>Top K Frequent Elements</h1>
 
 <p>

@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Microsoft](./../..)/[Hard](./..)/First_Missing_Positive
-# [Home](./../../..)/[Microsoft](./../..)/[Hard](./..)/First_Missing_Positive
 <h1>First Missing Positive</h1>
 
 <p>

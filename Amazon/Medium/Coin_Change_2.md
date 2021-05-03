@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Coin_Change_2
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Coin_Change_2
 <h1>Coin Change 2</h1>
 
 <p>

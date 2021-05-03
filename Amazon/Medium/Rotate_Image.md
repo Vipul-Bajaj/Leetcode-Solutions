@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Rotate_Image
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Rotate_Image
 <h1>Rotate Image</h1>
 
 <p>

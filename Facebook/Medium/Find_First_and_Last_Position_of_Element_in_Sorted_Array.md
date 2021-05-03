@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Find_First_and_Last_Position_of_Element_in_Sorted_Array
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Find_First_and_Last_Position_of_Element_in_Sorted_Array
 <h1>Find First and Last Position of Element in Sorted Array</h1>
 
 <p>

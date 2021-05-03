@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Lowest_Common_Ancestor_of_a_Binary_Tree
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Lowest_Common_Ancestor_of_a_Binary_Tree
 <h1>Lowest Common Ancestor of a Binary Tree</h1>
 
 <p>

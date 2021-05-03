@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Unique_Paths_II
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Unique_Paths_II
 <h1>Unique Paths II</h1>
 
 <p>

@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Google](./../..)/[Hard](./..)/Longest_Increasing_Path_in_a_Matrix
-# [Home](./../../..)/[Google](./../..)/[Hard](./..)/Longest_Increasing_Path_in_a_Matrix
 <h1>Longest Increasing Path in a Matrix</h1>
 
 <p>

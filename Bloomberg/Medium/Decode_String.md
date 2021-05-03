@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Decode_String
-# [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Decode_String
 <h1>Decode String</h1>
 
 <p>

@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Search_a_2D_Matrix
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Search_a_2D_Matrix
 <h1>Search a 2D Matrix</h1>
 
 <p>

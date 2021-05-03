@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Candy_Crush
-# [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Candy_Crush
 <h1>Candy Crush</h1>
 
 <p>

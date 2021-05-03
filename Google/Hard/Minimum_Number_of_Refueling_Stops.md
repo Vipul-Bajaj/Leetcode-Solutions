@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Google](./../..)/[Hard](./..)/Minimum_Number_of_Refueling_Stops
-# [Home](./../../..)/[Google](./../..)/[Hard](./..)/Minimum_Number_of_Refueling_Stops
 <h1>Minimum Number of Refueling Stops</h1>
 
 <p>

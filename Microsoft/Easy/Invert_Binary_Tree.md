@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Microsoft](./../..)/[Easy](./..)/Invert_Binary_Tree
-# [Home](./../../..)/[Microsoft](./../..)/[Easy](./..)/Invert_Binary_Tree
 <h1>Invert Binary Tree</h1>
 
 <p>

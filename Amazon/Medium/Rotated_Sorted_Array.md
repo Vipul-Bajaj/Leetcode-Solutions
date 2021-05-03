@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Rotated_Sorted_Array
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Rotated_Sorted_Array
 <h1>Rotated Sorted Array</h1>
 
 <p>

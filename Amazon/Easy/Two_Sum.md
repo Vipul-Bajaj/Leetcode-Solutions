@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Two_Sum
-# [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Two_Sum
 <h1>Two Sum</h1>
 
 <p>

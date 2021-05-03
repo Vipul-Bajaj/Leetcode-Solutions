@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Expedia](./../..)/[Medium](./..)/Minimum_Knight_Moves
-# [Home](./../../..)/[Expedia](./../..)/[Medium](./..)/Minimum_Knight_Moves
 <h1>Minimum Knight Moves</h1>
 
 <p>

@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Majority_Element_II
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Majority_Element_II
 <h1>Majority Element II</h1>
 
 <p>

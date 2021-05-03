@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Microsoft](./../..)/[Medium](./..)/Longest_Substring_Without_Repeating_Characters
-# [Home](./../../..)/[Microsoft](./../..)/[Medium](./..)/Longest_Substring_Without_Repeating_Characters
 <h1>Longest Substring Without Repeating Characters</h1>
 
 <p>

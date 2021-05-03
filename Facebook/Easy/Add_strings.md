@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Add_strings
-# [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Add_strings
 <h1>Add strings</h1>
 
 <p>

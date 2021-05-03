@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Reverse_Integer
-# [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Reverse_Integer
 <h1>Reverse Integer</h1>
 
 <p>

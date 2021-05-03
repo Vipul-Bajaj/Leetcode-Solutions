@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Flatten_Nested_List_Iterator
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Flatten_Nested_List_Iterator
 <h1>Flatten Nested List Iterator</h1>
 
 <p>

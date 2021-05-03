@@ -1,5 +1,4 @@
 # [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Subarray_Sum_Equals_K
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Subarray_Sum_Equals_K
 <h1>Subarray Sum Equals K</h1>
 
 <p>
