@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Add_Binary
+# [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Add_Binary
 <h1>Add Binary</h1>
 
 <p>

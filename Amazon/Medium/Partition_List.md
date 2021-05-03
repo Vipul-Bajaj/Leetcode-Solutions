@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Partition_List
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Partition_List
 <h1>Partition List</h1>
 
 <p>

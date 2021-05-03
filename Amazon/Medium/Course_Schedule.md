@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Course_Schedule
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Course_Schedule
 <h1>Course Schedule</h1>
 
 <p>

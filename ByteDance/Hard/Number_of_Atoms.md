@@ -1,4 +1,5 @@
 # [Home](./../../..)/[ByteDance](./../..)/[Hard](./..)/Number_of_Atoms
+# [Home](./../../..)/[ByteDance](./../..)/[Hard](./..)/Number_of_Atoms
 <h1>Number of Atoms</h1>
 
 <p>

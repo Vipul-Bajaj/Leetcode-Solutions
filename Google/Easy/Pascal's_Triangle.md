@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Google](./../..)/[Easy](./..)/Pascal's_Triangle
+# [Home](./../../..)/[Google](./../..)/[Easy](./..)/Pascal's_Triangle
 <h1>Pascal's Triangle</h1>
 
 <p>

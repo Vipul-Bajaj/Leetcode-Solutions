@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Longest_Palindromic_Substring
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Longest_Palindromic_Substring
 <h1>Longest Palindromic Substring</h1>
 
 <p>

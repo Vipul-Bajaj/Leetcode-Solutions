@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Minimum_Remove_to_Make_Valid_Parentheses
+# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Minimum_Remove_to_Make_Valid_Parentheses
 <h1>Minimum Remove to Make Valid Parentheses</h1>
 
 <p>

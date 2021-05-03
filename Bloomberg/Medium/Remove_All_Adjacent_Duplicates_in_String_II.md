@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Remove_All_Adjacent_Duplicates_in_String_II
+# [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Remove_All_Adjacent_Duplicates_in_String_II
 <h1>Remove All Adjacent Duplicates in String II</h1>
 
 <p>

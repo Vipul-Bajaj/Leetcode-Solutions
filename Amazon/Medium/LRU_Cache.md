@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/LRU_Cache
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/LRU_Cache
 <h1>LRU Cache</h1>
 
 <p>

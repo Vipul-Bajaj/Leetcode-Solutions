@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Spiral_Matrix
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Spiral_Matrix
 <h1>Spiral Matrix</h1>
 
 <p>

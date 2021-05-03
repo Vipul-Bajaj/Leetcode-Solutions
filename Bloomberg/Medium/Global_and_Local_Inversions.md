@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Global_and_Local_Inversions
+# [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Global_and_Local_Inversions
 <h1>Global and Local Inversions</h1>
 
 <p>

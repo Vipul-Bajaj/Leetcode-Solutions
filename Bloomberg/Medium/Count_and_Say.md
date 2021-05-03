@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Count_and_Say
+# [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Count_and_Say
 <h1>Count and Say</h1>
 
 <p>

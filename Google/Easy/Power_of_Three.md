@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Google](./../..)/[Easy](./..)/Power_of_Three
+# [Home](./../../..)/[Google](./../..)/[Easy](./..)/Power_of_Three
 <h1>Power of Three</h1>
 
 <p>

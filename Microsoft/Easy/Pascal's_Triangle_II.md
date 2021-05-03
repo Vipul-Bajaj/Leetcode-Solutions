@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Microsoft](./../..)/[Easy](./..)/Pascal's_Triangle_II
+# [Home](./../../..)/[Microsoft](./../..)/[Easy](./..)/Pascal's_Triangle_II
 <h1>Pascal's Triangle II</h1>
 
 <p>

@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Validate_Binary_Search_Tree
+# [Home](./../../..)/[Bloomberg](./../..)/[Medium](./..)/Validate_Binary_Search_Tree
 <h1>Validate Binary Search Tree</h1>
 
 <p>

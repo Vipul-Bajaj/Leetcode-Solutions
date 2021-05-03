@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Simplify_Path
+# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Simplify_Path
 <h1>Simplify Path</h1>
 
 <p>

@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Amazon](./../..)/[Hard](./..)/Count_of_Smaller_Numbers_After_Self
+# [Home](./../../..)/[Amazon](./../..)/[Hard](./..)/Count_of_Smaller_Numbers_After_Self
 <h1>Count of Smaller Numbers After Self</h1>
 
 <p>

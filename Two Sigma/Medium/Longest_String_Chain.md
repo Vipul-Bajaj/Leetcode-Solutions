@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Two Sigma](./../..)/[Medium](./..)/Longest_String_Chain
+# [Home](./../../..)/[Two Sigma](./../..)/[Medium](./..)/Longest_String_Chain
 <h1>Longest String Chain</h1>
 
 <p>

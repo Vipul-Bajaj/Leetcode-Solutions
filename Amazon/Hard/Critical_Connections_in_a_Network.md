@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Amazon](./../..)/[Hard](./..)/Critical_Connections_in_a_Network
+# [Home](./../../..)/[Amazon](./../..)/[Hard](./..)/Critical_Connections_in_a_Network
 <h1>Critical Connections in a Network</h1>
 
 <p>

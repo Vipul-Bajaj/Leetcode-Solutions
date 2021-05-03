@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Longest_Common_Prefix
+# [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Longest_Common_Prefix
 <h1>Longest Common Prefix</h1>
 
 <p>

@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Group_Anagrams
+# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Group_Anagrams
 <h1>Group Anagrams</h1>
 
 <p>

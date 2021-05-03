@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Verifying_an_Alien_Dictionary
+# [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Verifying_an_Alien_Dictionary
 <h1>Verifying an Alien Dictionary</h1>
 
 <p>

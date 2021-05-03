@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Microsoft](./../..)/[Easy](./..)/Fizz_Buzz
+# [Home](./../../..)/[Microsoft](./../..)/[Easy](./..)/Fizz_Buzz
 <h1>Fizz Buzz</h1>
 
 <p>

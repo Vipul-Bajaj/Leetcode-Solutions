@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Apple](./../..)/[Medium](./..)/Longest_Increasing_Subsequence
+# [Home](./../../..)/[Apple](./../..)/[Medium](./..)/Longest_Increasing_Subsequence
 <h1>Longest Increasing Subsequence</h1>
 
 <p>

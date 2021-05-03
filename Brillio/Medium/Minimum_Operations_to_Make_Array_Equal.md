@@ -1,4 +1,5 @@
 # [Home](./../../..)/[Brillio](./../..)/[Medium](./..)/Minimum_Operations_to_Make_Array_Equal
+# [Home](./../../..)/[Brillio](./../..)/[Medium](./..)/Minimum_Operations_to_Make_Array_Equal
 <h1>Minimum Operations to Make Array Equal</h1>
 
 <p>
