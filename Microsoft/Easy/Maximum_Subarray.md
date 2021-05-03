@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Microsoft](./../..)/[Easy](./..)/Maximum_Subarray
+# [Home](./../..)/[Microsoft](./..)/[Easy](./)/Maximum_Subarray
 <h1>Maximum Subarray</h1>
 
 <p>

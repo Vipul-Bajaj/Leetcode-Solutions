@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Goldman Sachs](./../..)/[Medium](./..)/String_Compression
+# [Home](./../..)/[Goldman Sachs](./..)/[Medium](./)/String_Compression
 <h1>String Compression</h1>
 
 <p>

@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/One_Edit_Distance
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/One_Edit_Distance
 <h1>One Edit Distance</h1>
 
 <p>

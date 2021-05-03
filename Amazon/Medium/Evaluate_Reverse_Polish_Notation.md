@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Evaluate_Reverse_Polish_Notation
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/Evaluate_Reverse_Polish_Notation
 <h1>Evaluate Reverse Polish Notation</h1>
 
 <p>

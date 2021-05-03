@@ -1,4 +1,4 @@
-# [Home](./../../..)/[IBM](./../..)/[Medium](./..)/Minimum_Swaps_to_Group_All_1's_Together
+# [Home](./../..)/[IBM](./..)/[Medium](./)/Minimum_Swaps_to_Group_All_1's_Together
 <h1>Minimum Swaps to Group All 1's Together</h1>
 
 <p>

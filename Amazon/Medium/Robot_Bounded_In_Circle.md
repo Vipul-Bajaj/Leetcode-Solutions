@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Robot_Bounded_In_Circle
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/Robot_Bounded_In_Circle
 <h1>Robot Bounded In Circle</h1>
 
 <p>

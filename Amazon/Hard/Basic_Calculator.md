@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Hard](./..)/Basic_Calculator
+# [Home](./../..)/[Amazon](./..)/[Hard](./)/Basic_Calculator
 <h1>Basic Calculator</h1>
 
 <p>

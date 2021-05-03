@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Merge_Two_Sorted_Lists
+# [Home](./../..)/[Amazon](./..)/[Easy](./)/Merge_Two_Sorted_Lists
 <h1>Merge Two Sorted Lists</h1>
 
 <p>

@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Max_Area_of_Island
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/Max_Area_of_Island
 <h1>Max Area of Island</h1>
 
 <p>

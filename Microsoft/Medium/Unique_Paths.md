@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Microsoft](./../..)/[Medium](./..)/Unique_Paths
+# [Home](./../..)/[Microsoft](./..)/[Medium](./)/Unique_Paths
 <h1>Unique Paths</h1>
 
 <p>

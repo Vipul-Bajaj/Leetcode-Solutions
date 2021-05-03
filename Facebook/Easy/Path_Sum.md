@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Facebook](./../..)/[Easy](./..)/Path_Sum
+# [Home](./../..)/[Facebook](./..)/[Easy](./)/Path_Sum
 <h1>Path Sum</h1>
 
 <p>

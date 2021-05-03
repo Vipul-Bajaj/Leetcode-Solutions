@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal
 <h1>Construct Binary Tree from Preorder and Inorder Traversal</h1>
 
 <p>

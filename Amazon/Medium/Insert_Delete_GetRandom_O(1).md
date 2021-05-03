@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Insert_Delete_GetRandom_O(1)
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/Insert_Delete_GetRandom_O(1)
 <h1>Insert Delete GetRandom O(1)</h1>
 
 <p>

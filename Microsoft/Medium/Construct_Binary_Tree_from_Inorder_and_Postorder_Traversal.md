@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Microsoft](./../..)/[Medium](./..)/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal
+# [Home](./../..)/[Microsoft](./..)/[Medium](./)/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal
 <h1>Construct Binary Tree from Inorder and Postorder Traversal</h1>
 
 <p>

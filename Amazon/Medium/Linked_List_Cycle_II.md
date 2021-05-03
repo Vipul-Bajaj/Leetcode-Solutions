@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Linked_List_Cycle_II
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/Linked_List_Cycle_II
 <h1>Linked List Cycle II</h1>
 
 <p>

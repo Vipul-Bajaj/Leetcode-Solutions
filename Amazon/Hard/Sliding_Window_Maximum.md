@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Hard](./..)/Sliding_Window_Maximum
+# [Home](./../..)/[Amazon](./..)/[Hard](./)/Sliding_Window_Maximum
 <h1>Sliding Window Maximum</h1>
 
 <p>

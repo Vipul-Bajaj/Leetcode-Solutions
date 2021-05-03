@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Microsoft](./../..)/[Medium](./..)/Count_Good_Nodes_in_Binary_Tree
+# [Home](./../..)/[Microsoft](./..)/[Medium](./)/Count_Good_Nodes_in_Binary_Tree
 <h1>Count Good Nodes in Binary Tree</h1>
 
 <p>

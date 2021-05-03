@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/3Sum
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/3Sum
 <h1>3Sum</h1>
 
 <p>

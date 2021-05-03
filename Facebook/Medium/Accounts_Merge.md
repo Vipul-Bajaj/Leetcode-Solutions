@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Accounts_Merge
+# [Home](./../..)/[Facebook](./..)/[Medium](./)/Accounts_Merge
 <h1>Accounts Merge</h1>
 
 <p>

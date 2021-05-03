@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Dropbox](./../..)/[Medium](./..)/Find_Duplicate_File_in_System
+# [Home](./../..)/[Dropbox](./..)/[Medium](./)/Find_Duplicate_File_in_System
 <h1>Find Duplicate File in System</h1>
 
 <p>

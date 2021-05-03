@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Meeting_Scheduler
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/Meeting_Scheduler
 <h1>Meeting Scheduler</h1>
 
 <p>

@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Easy](./..)/Maximum_Units_on_a_Truck
+# [Home](./../..)/[Amazon](./..)/[Easy](./)/Maximum_Units_on_a_Truck
 <h1>Maximum Units on a Truck</h1>
 
 <p>

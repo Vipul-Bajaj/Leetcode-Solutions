@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Amazon](./../..)/[Medium](./..)/Single_Element_in_a_Sorted_Array
+# [Home](./../..)/[Amazon](./..)/[Medium](./)/Single_Element_in_a_Sorted_Array
 <h1>Single Element in a Sorted Array</h1>
 
 <p>

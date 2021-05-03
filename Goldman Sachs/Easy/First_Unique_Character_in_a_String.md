@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Goldman Sachs](./../..)/[Easy](./..)/First_Unique_Character_in_a_String
+# [Home](./../..)/[Goldman Sachs](./..)/[Easy](./)/First_Unique_Character_in_a_String
 <h1>First Unique Character in a String</h1>
 
 <p>

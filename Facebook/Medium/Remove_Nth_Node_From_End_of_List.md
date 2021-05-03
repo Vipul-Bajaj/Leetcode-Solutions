@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Remove_Nth_Node_From_End_of_List
+# [Home](./../..)/[Facebook](./..)/[Medium](./)/Remove_Nth_Node_From_End_of_List
 <h1>Remove Nth Node From End of List</h1>
 
 <p>

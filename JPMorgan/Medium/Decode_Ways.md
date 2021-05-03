@@ -1,4 +1,4 @@
-# [Home](./../../..)/[JPMorgan](./../..)/[Medium](./..)/Decode_Ways
+# [Home](./../..)/[JPMorgan](./..)/[Medium](./)/Decode_Ways
 <h1>Decode Ways</h1>
 
 <p>

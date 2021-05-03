@@ -1,4 +1,4 @@
-# [Home](./../../..)/[Facebook](./../..)/[Medium](./..)/Combination_Sum
+# [Home](./../..)/[Facebook](./..)/[Medium](./)/Combination_Sum
 <h1>Combination Sum</h1>
 
 <p>
