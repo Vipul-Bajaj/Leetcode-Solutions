@@ -5,5 +5,6 @@
 4. [Generate_Parentheses](./Generate_Parentheses.md)
 5. [House_Robber](./House_Robber.md)
 6. [Longest_Substring_Without_Repeating_Characters](./Longest_Substring_Without_Repeating_Characters.md)
-7. [Spiral_Matrix_II](./Spiral_Matrix_II.md)
-8. [Unique_Paths](./Unique_Paths.md)
+7. [Reverse_Words_in_a_String](./Reverse_Words_in_a_String.md)
+8. [Spiral_Matrix_II](./Spiral_Matrix_II.md)
+9. [Unique_Paths](./Unique_Paths.md)
