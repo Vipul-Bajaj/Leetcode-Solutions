@@ -40,9 +40,9 @@ class Solution:
     def generate(self,postorder,start,end):
         if start>end:
             return
-        node = TreeNode(postorder[self.preorder_idx])
+        node = TreeNode(postorder[self.postorder_idx])
         idx = self.hm[node.val]
-        self.preorder_idx-=1
+        self.postorder_idx-=1
         if start == end:
             return node
         node.right = self.generate(postorder,idx+1,end)
@@ -51,7 +51,7 @@ class Solution:
     def buildTree(self, inorder: List[int], postorder: List[int]) -> TreeNode:
         self.hm = {}
         n = len(postorder)
-        self.preorder_idx = n-1
+        self.postorder_idx = n-1
         for i in range(n):
             self.hm[inorder[i]] = i
         return self.generate(postorder,0,n-1)
