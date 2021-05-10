@@ -1,4 +1,5 @@
 # [Home](./../..)/[Apple](./..)/Easy
-1. [Happy_Number](./Happy_Number.md)
-2. [Logger_Rate_Limiter](./Logger_Rate_Limiter.md)
-3. [Reverse_String](./Reverse_String.md)
+1. [Count_Primes](./Count_Primes.md)
+2. [Happy_Number](./Happy_Number.md)
+3. [Logger_Rate_Limiter](./Logger_Rate_Limiter.md)
+4. [Reverse_String](./Reverse_String.md)
