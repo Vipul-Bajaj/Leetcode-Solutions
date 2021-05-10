@@ -1,2 +1,3 @@
 # [Home](./../..)/[Uber](./..)/Medium
-1. [Reconstruct_Itinerary](./Reconstruct_Itinerary.md)
+1. [Minesweeper](./Minesweeper.md)
+2. [Reconstruct_Itinerary](./Reconstruct_Itinerary.md)
