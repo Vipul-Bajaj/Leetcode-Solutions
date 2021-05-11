@@ -21,5 +21,6 @@
 20. [Range_Sum_of_BST](./Range_Sum_of_BST.md)
 21. [Remove_Nth_Node_From_End_of_List](./Remove_Nth_Node_From_End_of_List.md)
 22. [Simplify_Path](./Simplify_Path.md)
-23. [Subarray_Sum_Equals_K](./Subarray_Sum_Equals_K.md)
-24. [Sum_Root_to_Leaf_Numbers](./Sum_Root_to_Leaf_Numbers.md)
+23. [String_to_Integer_(atoi)](./String_to_Integer_%28atoi%29.md)
+24. [Subarray_Sum_Equals_K](./Subarray_Sum_Equals_K.md)
+25. [Sum_Root_to_Leaf_Numbers](./Sum_Root_to_Leaf_Numbers.md)
