@@ -1,3 +1,4 @@
 # [Home](./..)/Apple
 1. [Medium](./Medium)
-2. [Easy](./Easy)
+2. [Hard](./Hard)
+3. [Easy](./Easy)
