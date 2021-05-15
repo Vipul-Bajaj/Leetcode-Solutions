@@ -1,4 +1,4 @@
-# [Home](./../..)/[Facebook](./..)/[Medium](./)/Pow(x,n)
+# [Home](./../..)/[Facebook](./..)/[Medium](./)/Pow_x_to_n
 <h1>Pow(x, n)</h1>
 
 <p>
