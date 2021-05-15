@@ -57,4 +57,5 @@
 56. [Top_K_Frequent_Words](./Top_K_Frequent_Words.md)
 57. [Triangle](./Triangle.md)
 58. [Unique_Paths_II](./Unique_Paths_II.md)
-59. [Word_Search](./Word_Search.md)
+59. [Valid_Sudoku](./Valid_Sudoku.md)
+60. [Word_Search](./Word_Search.md)
