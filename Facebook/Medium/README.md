@@ -17,7 +17,7 @@
 16. [Minimum_Remove_to_Make_Valid_Parentheses](./Minimum_Remove_to_Make_Valid_Parentheses.md)
 17. [Next_Permutation](./Next_Permutation.md)
 18. [Permutations](./Permutations.md)
-19. [Pow(x,n)](./Pow%28x%2Cn%29.md)
+19. [Pow_x_to_n](./Pow_x_to_n.md)
 20. [Product_of_Array_Except_Self](./Product_of_Array_Except_Self.md)
 21. [Random_Pick_with_Weight](./Random_Pick_with_Weight.md)
 22. [Range_Sum_Query_2D_Immutable](./Range_Sum_Query_2D_Immutable.md)
