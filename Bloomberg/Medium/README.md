@@ -9,3 +9,4 @@
 8. [Global_and_Local_Inversions](./Global_and_Local_Inversions.md)
 9. [Remove_All_Adjacent_Duplicates_in_String_II](./Remove_All_Adjacent_Duplicates_in_String_II.md)
 10. [Validate_Binary_Search_Tree](./Validate_Binary_Search_Tree.md)
+11. [ZigZag_Conversion](./ZigZag_Conversion.md)
