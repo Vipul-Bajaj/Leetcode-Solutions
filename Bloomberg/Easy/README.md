@@ -1,2 +1,3 @@
 # [Home](./../..)/[Bloomberg](./..)/Easy
-1. [Valid_Anagram](./Valid_Anagram.md)
+1. [Factorial_Trailing_Zeroes](./Factorial_Trailing_Zeroes.md)
+2. [Valid_Anagram](./Valid_Anagram.md)
