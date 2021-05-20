@@ -4,5 +4,6 @@
 3. [Find_Common_Characters](./Find_Common_Characters.md)
 4. [Happy_Number](./Happy_Number.md)
 5. [Logger_Rate_Limiter](./Logger_Rate_Limiter.md)
-6. [Reverse_String](./Reverse_String.md)
-7. [Shuffle_the_Array](./Shuffle_the_Array.md)
+6. [Power_of_Two](./Power_of_Two.md)
+7. [Reverse_String](./Reverse_String.md)
+8. [Shuffle_the_Array](./Shuffle_the_Array.md)
