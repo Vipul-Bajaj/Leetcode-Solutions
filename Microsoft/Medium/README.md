@@ -9,5 +9,6 @@
 8. [Minimum_Deletion_Cost_to_Avoid_Repeating_Letters](./Minimum_Deletion_Cost_to_Avoid_Repeating_Letters.md)
 9. [Minimum_Moves_to_Equal_Array_Elements_II](./Minimum_Moves_to_Equal_Array_Elements_II.md)
 10. [Reverse_Words_in_a_String](./Reverse_Words_in_a_String.md)
-11. [Spiral_Matrix_II](./Spiral_Matrix_II.md)
-12. [Unique_Paths](./Unique_Paths.md)
+11. [Sort_Colors](./Sort_Colors.md)
+12. [Spiral_Matrix_II](./Spiral_Matrix_II.md)
+13. [Unique_Paths](./Unique_Paths.md)
