@@ -27,5 +27,6 @@
 25. [Two Sigma](./Two%20Sigma)
 26. [Uber](./Uber)
 27. [VMware](./VMware)
-28. [Yandex](./Yandex)
-29. [Zillow](./Zillow)
+28. [WayFair](./WayFair)
+29. [Yandex](./Yandex)
+30. [Zillow](./Zillow)

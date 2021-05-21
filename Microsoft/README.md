@@ -1,4 +1,4 @@
 # [Home](./..)/Microsoft
-1. [Hard](./Hard)
-2. [Easy](./Easy)
-3. [Medium](./Medium)
+1. [Medium](./Medium)
+2. [Hard](./Hard)
+3. [Easy](./Easy)
