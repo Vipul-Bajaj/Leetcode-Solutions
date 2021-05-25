@@ -71,4 +71,5 @@
 70. [Triangle](./Triangle.md)
 71. [Unique_Paths_II](./Unique_Paths_II.md)
 72. [Valid_Sudoku](./Valid_Sudoku.md)
-73. [Word_Search](./Word_Search.md)
+73. [Vowel_Spellchecker](./Vowel_Spellchecker.md)
+74. [Word_Search](./Word_Search.md)
