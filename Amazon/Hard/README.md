@@ -3,5 +3,6 @@
 2. [Count_of_Smaller_Numbers_After_Self](./Count_of_Smaller_Numbers_After_Self.md)
 3. [Critical_Connections_in_a_Network](./Critical_Connections_in_a_Network.md)
 4. [Edit_Distance](./Edit_Distance.md)
-5. [Maximum_Score_Words_Formed_by_Letters](./Maximum_Score_Words_Formed_by_Letters.md)
-6. [Sliding_Window_Maximum](./Sliding_Window_Maximum.md)
+5. [Maximum_Frequency_Stack](./Maximum_Frequency_Stack.md)
+6. [Maximum_Score_Words_Formed_by_Letters](./Maximum_Score_Words_Formed_by_Letters.md)
+7. [Sliding_Window_Maximum](./Sliding_Window_Maximum.md)
