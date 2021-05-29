@@ -5,4 +5,5 @@
 4. [Edit_Distance](./Edit_Distance.md)
 5. [Maximum_Frequency_Stack](./Maximum_Frequency_Stack.md)
 6. [Maximum_Score_Words_Formed_by_Letters](./Maximum_Score_Words_Formed_by_Letters.md)
-7. [Sliding_Window_Maximum](./Sliding_Window_Maximum.md)
+7. [N_Queens_II](./N_Queens_II.md)
+8. [Sliding_Window_Maximum](./Sliding_Window_Maximum.md)
