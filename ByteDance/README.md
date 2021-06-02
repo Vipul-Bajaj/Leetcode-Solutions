@@ -1,3 +1,4 @@
 # [Home](./..)/ByteDance
 1. [Hard](./Hard)
-2. [Medium](./Medium)
+2. [Easy](./Easy)
+3. [Medium](./Medium)
