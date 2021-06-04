@@ -17,4 +17,5 @@
 16. [Put_Boxes_Into_the_Warehouse_I](./Put_Boxes_Into_the_Warehouse_I.md)
 17. [Single_Number_II](./Single_Number_II.md)
 18. [Time_Based_Key_Value_Store](./Time_Based_Key_Value_Store.md)
-19. [Water_and_Jug_Problem](./Water_and_Jug_Problem.md)
+19. [Time_Needed_to_Inform_All_Employees](./Time_Needed_to_Inform_All_Employees.md)
+20. [Water_and_Jug_Problem](./Water_and_Jug_Problem.md)
