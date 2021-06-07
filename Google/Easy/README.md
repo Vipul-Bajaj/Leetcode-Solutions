@@ -4,4 +4,5 @@
 3. [Moving_Average_from_Data_Stream](./Moving_Average_from_Data_Stream.md)
 4. [Pascal's_Triangle](./Pascal%27s_Triangle.md)
 5. [Power_of_Three](./Power_of_Three.md)
-6. [Unique_Email_Addresses](./Unique_Email_Addresses.md)
+6. [Single_Row_Keyboard](./Single_Row_Keyboard.md)
+7. [Unique_Email_Addresses](./Unique_Email_Addresses.md)
