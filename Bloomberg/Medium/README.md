@@ -12,5 +12,6 @@
 11. [Remove_All_Adjacent_Duplicates_in_String_II](./Remove_All_Adjacent_Duplicates_in_String_II.md)
 12. [Remove_Duplicate_Letters](./Remove_Duplicate_Letters.md)
 13. [Two_City_Scheduling](./Two_City_Scheduling.md)
-14. [Validate_Binary_Search_Tree](./Validate_Binary_Search_Tree.md)
-15. [ZigZag_Conversion](./ZigZag_Conversion.md)
+14. [Valid_Triangle_Number](./Valid_Triangle_Number.md)
+15. [Validate_Binary_Search_Tree](./Validate_Binary_Search_Tree.md)
+16. [ZigZag_Conversion](./ZigZag_Conversion.md)
