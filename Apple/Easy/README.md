@@ -7,3 +7,4 @@
 6. [Power_of_Two](./Power_of_Two.md)
 7. [Reverse_String](./Reverse_String.md)
 8. [Shuffle_the_Array](./Shuffle_the_Array.md)
+9. [Word_Pattern](./Word_Pattern.md)
