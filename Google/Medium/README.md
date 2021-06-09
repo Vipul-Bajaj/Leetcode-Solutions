@@ -23,3 +23,4 @@
 22. [Time_Based_Key_Value_Store](./Time_Based_Key_Value_Store.md)
 23. [Time_Needed_to_Inform_All_Employees](./Time_Needed_to_Inform_All_Employees.md)
 24. [Water_and_Jug_Problem](./Water_and_Jug_Problem.md)
+25. [Wiggle_Sort](./Wiggle_Sort.md)
