@@ -47,3 +47,4 @@
 46. [String_to_Integer_(atoi)](./String_to_Integer_%28atoi%29.md)
 47. [Subarray_Sum_Equals_K](./Subarray_Sum_Equals_K.md)
 48. [Sum_Root_to_Leaf_Numbers](./Sum_Root_to_Leaf_Numbers.md)
+49. [Sum_of_Two_Integers](./Sum_of_Two_Integers.md)
