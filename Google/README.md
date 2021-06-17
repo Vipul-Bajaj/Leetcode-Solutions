@@ -1,4 +1,4 @@
 # [Home](./..)/Google
-1. [Hard](./Hard)
-2. [Easy](./Easy)
-3. [Medium](./Medium)
+1. [Easy](./Easy)
+2. [Medium](./Medium)
+3. [Hard](./Hard)

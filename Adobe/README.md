@@ -1,3 +1,3 @@
 # [Home](./..)/Adobe
-1. [Hard](./Hard)
-2. [Easy](./Easy)
+1. [Easy](./Easy)
+2. [Hard](./Hard)
