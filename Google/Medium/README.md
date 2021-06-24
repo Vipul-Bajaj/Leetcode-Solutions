@@ -25,5 +25,6 @@
 24. [Single_Number_II](./Single_Number_II.md)
 25. [Time_Based_Key_Value_Store](./Time_Based_Key_Value_Store.md)
 26. [Time_Needed_to_Inform_All_Employees](./Time_Needed_to_Inform_All_Employees.md)
-27. [Water_and_Jug_Problem](./Water_and_Jug_Problem.md)
-28. [Wiggle_Sort](./Wiggle_Sort.md)
+27. [Validate_Stack_Sequences](./Validate_Stack_Sequences.md)
+28. [Water_and_Jug_Problem](./Water_and_Jug_Problem.md)
+29. [Wiggle_Sort](./Wiggle_Sort.md)
