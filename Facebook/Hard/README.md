@@ -4,5 +4,6 @@
 3. [N-Queens](./N-Queens.md)
 4. [Regular_Expression_Matching](./Regular_Expression_Matching.md)
 5. [Serialize_and_Deserialize_Binary_Tree](./Serialize_and_Deserialize_Binary_Tree.md)
-6. [Valid_Number](./Valid_Number.md)
-7. [Vertical_Order_Traversal_of_a_Binary_Tree](./Vertical_Order_Traversal_of_a_Binary_Tree.md)
+6. [Swim_in_Rising_Water](./Swim_in_Rising_Water.md)
+7. [Valid_Number](./Valid_Number.md)
+8. [Vertical_Order_Traversal_of_a_Binary_Tree](./Vertical_Order_Traversal_of_a_Binary_Tree.md)
