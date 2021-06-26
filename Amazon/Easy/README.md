@@ -27,4 +27,5 @@
 26. [Sum_of_Root_To_Leaf_Binary_Numbers](./Sum_of_Root_To_Leaf_Binary_Numbers.md)
 27. [Symmetric_Tree](./Symmetric_Tree.md)
 28. [Two_Sum](./Two_Sum.md)
-29. [Two_Sum_Less_Than_K](./Two_Sum_Less_Than_K.md)
+29. [Two_Sum_II_Input_array_is_sorted](./Two_Sum_II_Input_array_is_sorted.md)
+30. [Two_Sum_Less_Than_K](./Two_Sum_Less_Than_K.md)
