@@ -1,4 +1,4 @@
-# [Home](./../..)/[Uber](./..)/[Medium](./)/Merge_Strings_Alternately
+# [Home](./../..)/[Uber](./..)/[Easy](./)/Merge_Strings_Alternately
 <h1>Merge Strings Alternately</h1>
 
 <p>
