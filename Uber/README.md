@@ -1,3 +1,4 @@
 # [Home](./..)/Uber
-1. [Medium](./Medium)
-2. [Hard](./Hard)
+1. [Easy](./Easy)
+2. [Medium](./Medium)
+3. [Hard](./Hard)
