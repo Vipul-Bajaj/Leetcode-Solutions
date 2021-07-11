@@ -56,5 +56,6 @@
 55. [Spiral_Matrix_III](./Spiral_Matrix_III.md)
 56. [String_to_Integer_(atoi)](./String_to_Integer_%28atoi%29.md)
 57. [Subarray_Sum_Equals_K](./Subarray_Sum_Equals_K.md)
-58. [Sum_Root_to_Leaf_Numbers](./Sum_Root_to_Leaf_Numbers.md)
-59. [Sum_of_Two_Integers](./Sum_of_Two_Integers.md)
+58. [Subsets](./Subsets.md)
+59. [Sum_Root_to_Leaf_Numbers](./Sum_Root_to_Leaf_Numbers.md)
+60. [Sum_of_Two_Integers](./Sum_of_Two_Integers.md)
