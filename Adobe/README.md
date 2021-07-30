@@ -1,4 +1,4 @@
 # [Home](./..)/Adobe
-1. [Easy](./Easy)
-2. [Medium](./Medium)
+1. [Medium](./Medium)
+2. [Easy](./Easy)
 3. [Hard](./Hard)
