@@ -1,2 +1,3 @@
 # [Home](./..)/Quora
-1. [Hard](./Hard)
+1. [Easy](./Easy)
+2. [Hard](./Hard)
