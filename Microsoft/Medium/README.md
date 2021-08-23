@@ -21,4 +21,5 @@
 20. [Reverse_Words_in_a_String_II](./Reverse_Words_in_a_String_II.md)
 21. [Sort_Colors](./Sort_Colors.md)
 22. [Spiral_Matrix_II](./Spiral_Matrix_II.md)
-23. [Unique_Paths](./Unique_Paths.md)
+23. [Trim_a_Binary_Search_Tree](./Trim_a_Binary_Search_Tree.md)
+24. [Unique_Paths](./Unique_Paths.md)
