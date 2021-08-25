@@ -27,4 +27,5 @@
 26. [Sum_of_Unique_Elements](./Sum_of_Unique_Elements.md)
 27. [Valid_Palindrome](./Valid_Palindrome.md)
 28. [Valid_Palindrome_II](./Valid_Palindrome_II.md)
-29. [Verifying_an_Alien_Dictionary](./Verifying_an_Alien_Dictionary.md)
+29. [Valid_Perfect_Square](./Valid_Perfect_Square.md)
+30. [Verifying_an_Alien_Dictionary](./Verifying_an_Alien_Dictionary.md)
