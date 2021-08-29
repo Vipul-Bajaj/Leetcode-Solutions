@@ -6,5 +6,6 @@
 5. [Max_Points_on_a_Line](./Max_Points_on_a_Line.md)
 6. [Maximal_Rectangle](./Maximal_Rectangle.md)
 7. [Minimum_Number_of_Refueling_Stops](./Minimum_Number_of_Refueling_Stops.md)
-8. [Rectangle_Area_II](./Rectangle_Area_II.md)
-9. [Super_Palindromes](./Super_Palindromes.md)
+8. [Patching_Array](./Patching_Array.md)
+9. [Rectangle_Area_II](./Rectangle_Area_II.md)
+10. [Super_Palindromes](./Super_Palindromes.md)
