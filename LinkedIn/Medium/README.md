@@ -5,5 +5,6 @@
 4. [Nested_List_Weight_Sum](./Nested_List_Weight_Sum.md)
 5. [Nested_List_Weight_Sum_II](./Nested_List_Weight_Sum_II.md)
 6. [Paint_House](./Paint_House.md)
-7. [Shortest_Word_Distance_II](./Shortest_Word_Distance_II.md)
-8. [Shortest_Word_Distance_III](./Shortest_Word_Distance_III.md)
+7. [Permutations_II](./Permutations_II.md)
+8. [Shortest_Word_Distance_II](./Shortest_Word_Distance_II.md)
+9. [Shortest_Word_Distance_III](./Shortest_Word_Distance_III.md)
