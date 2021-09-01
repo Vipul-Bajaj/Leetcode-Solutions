@@ -8,4 +8,5 @@
 7. [Minimum_Number_of_Refueling_Stops](./Minimum_Number_of_Refueling_Stops.md)
 8. [Patching_Array](./Patching_Array.md)
 9. [Rectangle_Area_II](./Rectangle_Area_II.md)
-10. [Super_Palindromes](./Super_Palindromes.md)
+10. [Robot_Room_Cleaner](./Robot_Room_Cleaner.md)
+11. [Super_Palindromes](./Super_Palindromes.md)
