@@ -67,4 +67,5 @@
 66. [Subsets](./Subsets.md)
 67. [Sum_Root_to_Leaf_Numbers](./Sum_Root_to_Leaf_Numbers.md)
 68. [Sum_of_Two_Integers](./Sum_of_Two_Integers.md)
-69. [Validate_Binary_Tree_Nodes](./Validate_Binary_Tree_Nodes.md)
+69. [Target_Sum](./Target_Sum.md)
+70. [Validate_Binary_Tree_Nodes](./Validate_Binary_Tree_Nodes.md)
