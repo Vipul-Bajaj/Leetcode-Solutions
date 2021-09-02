@@ -1,3 +1,3 @@
 # [Home](./..)/Yelp
-1. [Medium](./Medium)
-2. [Easy](./Easy)
+1. [Easy](./Easy)
+2. [Medium](./Medium)
