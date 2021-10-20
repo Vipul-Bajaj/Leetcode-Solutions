@@ -11,4 +11,5 @@
 10. [Patching_Array](./Patching_Array.md)
 11. [Rectangle_Area_II](./Rectangle_Area_II.md)
 12. [Robot_Room_Cleaner](./Robot_Room_Cleaner.md)
-13. [Super_Palindromes](./Super_Palindromes.md)
+13. [String_Transforms_Into_Another_String](./String_Transforms_Into_Another_String.md)
+14. [Super_Palindromes](./Super_Palindromes.md)
